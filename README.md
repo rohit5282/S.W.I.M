@@ -1,2 +1,2 @@
 # S.W.I.M (SEQUENTIAL WAVE IMPRINTING MACHINES )
-This device will harness real-time audio processing and translate sound into visually engaging representations, merging audio-visual technology with physical environments.
+The SWIM device is a novel integration of audio signal processing, LED visualization, and mechanical motion control. By capturing audio data and mapping it to light intensity on an RGB LED strip, the machine aims to translate sound into a dynamic and visually engaging format. This project builds on the principle of audio waveform visualization, bringing it into a three-dimensional space through a combination of light and motion.
