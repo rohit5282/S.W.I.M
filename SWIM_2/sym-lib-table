@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP6002")(type "KiCad")(uri "${KIPRJMOD}/Components/MCP6002/KiCADv6/2025-02-24_13-15-28.kicad_sym")(options "")(descr ""))
+  (lib (name "74HC245")(type "KiCad")(uri "${KIPRJMOD}/Components/74HC245/2025-02-20_21-12-30.kicad_sym")(options "")(descr ""))
+  (lib (name "R-75K5")(type "KiCad")(uri "${KIPRJMOD}/Components/R-78K5/KiCADv6/2025-02-24_16-37-48.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ3-350103A")(type "KiCad")(uri "${KIPRJMOD}/Components/SJ3-350103A/SJ3-350103A.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6001UT_I_OT")(type "KiCad")(uri "${KIPRJMOD}/Components/MCP6001UT_I_OT/KiCADv6/2025-02-25_00-53-59.kicad_sym")(options "")(descr ""))
+  (lib (name "UE27AE54100")(type "KiCad")(uri "${KIPRJMOD}/Components/UE27AE54100/UE27AE54100.kicad_sym")(options "")(descr ""))
+)
