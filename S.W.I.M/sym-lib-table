@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "RP2040-ZERO")(type "KiCad")(uri "${KIPRJMOD}/Library/RP2040-ZERO.kicad_sym")(options "")(descr ""))
-  (lib (name "K7805-500R3")(type "KiCad")(uri "${KIPRJMOD}/Library/K7805/KiCADv6/2025-02-09_23-48-11.kicad_sym")(options "")(descr ""))
-)
