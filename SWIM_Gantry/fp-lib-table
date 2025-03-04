@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Aquiot")(type "KiCad")(uri "${KICAD8_3RD_PARTY}/resources/Aquiot/Aquiot.pretty")(options "")(descr ""))
+  (lib (name "Aquiot6")(type "KiCad")(uri "${KICAD8_3RD_PARTY}/resources/Aquiot/Aquiot6.pretty")(options "")(descr ""))
+  (lib (name "Aquiot7")(type "KiCad")(uri "${KICAD8_3RD_PARTY}/resources/Aquiot/Aquiot7.pretty")(options "")(descr ""))
+)
